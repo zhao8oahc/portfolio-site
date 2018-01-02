@@ -1,34 +1,49 @@
 body {
-    font-family: "Lato", sans-serif;
-    color: #2d3c49;
-    font-weight: 300;
+  font-family: "Lato", sans-serif;
+  color: #2d3c49;
+  font-weight: 300;
 }
+
+img {
+  width:100%;
+}
+
 .text-muted {
-    color: #7d97ad;
+  color: #7d97ad;
 }
+
 .text-thin {
-    font-weight:100;
+  font-weight:100;
 }
+
 .title-super {
-    font-size:60px;
+  font-size:60px;
 }
+
 .title-logo {
-    margin-top:20px;
+  margin-top:20px;
+  height:100px;
+  width:100px;
 }
+
 .title-large {
-    font-size:40px;
-    margin-bottom:0px;
+  font-size:40px;
+  margin-bottom:0px;
 }
+
 .work-img {
   height:150;
   width:300;
 }
+
 hr {
-    border-top: 5px solid #7d97ad;
+  border-top: 5px solid #7d97ad;
 }
+
 h2{
-    font-family: "Catamaran", sans-serif;
+  font-family: "Catamaran", sans-serif;
 }
+
 p {
-    font-family: "Catamaran", sans-serif;
+  font-family: "Catamaran", sans-serif;
 }
